@@ -13,5 +13,8 @@
     "type": "git",
     "url": "https://github.com/DigitalCareerInstitute/UIB-framework-bootstrap",
     "id": 213627535
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1"
   }
 }
